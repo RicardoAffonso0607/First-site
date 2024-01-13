@@ -1,1 +1,3 @@
-# First-experience-HTML-CSS
+# YouTube-Recreation
+
+## First project using HTML and CSS
