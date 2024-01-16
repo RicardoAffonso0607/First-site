@@ -12,12 +12,14 @@ This project is a recreation of the YouTube main page using HTML and CSS. I aime
 
 ## How to Run
 
-Include instructions on how to run or view your project. For example:
-
 1. Clone the repository: `git clone https://github.com/RicardoAffonso0607/Youtube-Recreation.git`
 2. Open the `youtube.html` file in your web browser.
 
+or open this website: https://ricardoaffonso0607.github.io/Youtube-Recreation/youtube.html
+
 ## Screenshots
+
+![HTMLFirst](https://github.com/RicardoAffonso0607/Youtube-Recreation/assets/127418054/cec20c70-530a-4558-838d-5efda87ef1b3)
 
 ## Acknowledgments
 
