@@ -6,8 +6,8 @@ This project is a recreation of the YouTube main page using HTML and CSS. I aime
 
 ## Features
 
-- HTML and CSS only: The entire project is built using HTML for the structure and CSS for styling.
-- Responsive Design: The page is designed to be responsive and adapt to different screen sizes for a seamless user experience.
+- HTML and CSS only: The entire project is built using HTML for the structure and CSS for styling
+- Responsive Design: The page is designed to be responsive and adapt to different screen sizes for a seamless user experience
 - Use of hover and transitions
 
 ## How to Run
